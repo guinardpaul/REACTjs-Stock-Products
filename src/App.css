@@ -1,0 +1,23 @@
+.marge-top {
+  margin-top: 20px;
+}
+
+.marge-left {
+  margin-left: 20px;
+}
+
+.border {
+  border-style: solid;
+}
+
+.row {
+  margin-top: 50px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+  margin-left: 80px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  width: min-content;
+}
